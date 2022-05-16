@@ -1,7 +1,42 @@
 Datos de Vendedor
-Nombre: René 
-Edad: 38
-Salario mínimo: 100,00
-Número de autos: 1
-Pago mensual: 250,00
+Nombre: jean
+Edad: 23
+Salario mínimo: 456,00
+Número de autos: 3456
+Pago mensual: 518856,00
+
+Datos de Vendedor
+Nombre: jose
+Edad: 34
+Salario mínimo: 245,00
+Número de autos: 4553
+Pago mensual: 683195,00
+
+Datos de Vendedor
+Nombre: pepe
+Edad: 233
+Salario mínimo: 31,00
+Número de autos: 345
+Pago mensual: 51781,00
+
+Datos de Vendedor
+Nombre: mijin
+Edad: 45
+Salario mínimo: 31,00
+Número de autos: 455
+Pago mensual: 68281,00
+
+Datos de Vendedor
+Nombre: miso
+Edad: 34
+Salario mínimo: 21,00
+Número de autos: 34
+Pago mensual: 5121,00
+
+Datos de Vendedor
+Nombre: mijitrix
+Edad: 34
+Salario mínimo: 53,00
+Número de autos: 12
+Pago mensual: 1853,00
 
