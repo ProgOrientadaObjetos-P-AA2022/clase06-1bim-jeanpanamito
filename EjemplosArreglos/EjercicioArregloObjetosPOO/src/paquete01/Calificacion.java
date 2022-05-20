@@ -28,6 +28,7 @@ public class Calificacion {
         nombreMateria = n;
     }
     
+    
     public void establecerProfesor(Profesor n) {
         profesor = n;
     }

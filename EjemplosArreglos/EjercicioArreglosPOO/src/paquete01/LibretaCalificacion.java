@@ -89,17 +89,22 @@ public class LibretaCalificacion {
          //       estudiante);
         
          for (int i = 0; i < obtenerCalificaciones().length; i++) {
-            cadena = String.format("%s,%.2f\n", cadena,
+            cadena = String.format("%s %.2f", cadena,
                     obtenerCalificaciones()[i]);
         }
         
-       /* cadena = String.format("%sPromedio calificaciones: %.2f\n"
+        cadena = String.format("\n%sPromedio calificaciones: %.2f\n"
                 + "Promedio cuantitativo: %s\n",
                 cadena, obtenerPromedio(), obtenerPromedioCualitativo());
-        */
-       cadena = String.format("\n%sPromedio calificaciones: %.2f\n"
+        
+       /*cadena = String.format("%sPromedio calificaciones: %.2f\n"
                 + "Promedio cuantitativo: %s\n",
                 cadena, promedio, promedioCualitativo);
         return cadena;
     }
+        r
+       */
+       return cadena;
 }
+}
+    
